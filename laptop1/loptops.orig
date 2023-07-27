@@ -1,6 +1,10 @@
 this is my first line
 this is my second line
 this is my third line
+<<<<<<< HEAD
+this is my 4 line
+=======
 this is my 4thh line
+>>>>>>> feature1
 this is my fifth line
 this is my sixth line
